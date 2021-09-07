@@ -3,7 +3,7 @@ module github.com/gopasspw/gopass
 go 1.12
 
 require (
-	filippo.io/age v1.0.0-rc.1
+	filippo.io/age v1.0.0
 	github.com/atotto/clipboard v0.1.4
 	github.com/blang/semver/v4 v4.0.0
 	github.com/caspr-io/yamlpath v0.0.0-20200722075116-502e8d113a9b
@@ -39,11 +39,11 @@ require (
 	github.com/stretchr/testify v1.7.0
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
-	golang.org/x/crypto v0.0.0-20210322153248-0c34fe9e7dc2
+	golang.org/x/crypto v0.0.0-20210817164053-32db794688a5
 	golang.org/x/net v0.0.0-20210326060303-6b1517762897
 	golang.org/x/oauth2 v0.0.0-20210313182246-cd4f82c27b84
-	golang.org/x/sys v0.0.0-20210324051608-47abb6519492
-	golang.org/x/term v0.0.0-20210317153231-de623e64d2a6
+	golang.org/x/sys v0.0.0-20210903071746-97244b99971b
+	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b
 	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
 	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b
 	gotest.tools v2.2.0+incompatible
